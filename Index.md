@@ -49,6 +49,8 @@ These are the most common input errors the user would see when working with the 
 ## Script
 The PyCharm output of the online grocery ordering code described in previous paragraphs is shown in Figure 3. The code prompts the user to select an option. The user adds groceries and their respective prices to their cart, and the receipt is shown. 
  
+ 
+ ![Figure 3](https://github.com/eisenhauerbrooke/IntroToProg-Python-Mod07/blob/main/Figure%203.png "Figure 3: Code in PyCharm")
 Figure 3: Code in PyCharm
 Figure 4 shows the same program output in the Command Module.
  
