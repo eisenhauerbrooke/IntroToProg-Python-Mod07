@@ -51,10 +51,11 @@ The PyCharm output of the online grocery ordering code described in previous par
  
  
  ![Figure 3](https://github.com/eisenhauerbrooke/IntroToProg-Python-Mod07/blob/main/Figure%203.png "Figure 3: Code in PyCharm")
-Figure 3: Code in PyCharm
-Figure 4 shows the same program output in the Command Module.
  
-Figure 4: Command Module
+ 
+Figure 4 shows the same program output in the Command Module.
+ ![Figure 4] https://github.com/eisenhauerbrooke/IntroToProg-Python-Mod07/blob/main/Figure%204.png "Figure 4: Command Module")
+
 
 ## Summary
 In summary, pickling is used in the script to serialize an object and store it as a binary character. The character can be unpickled to restore the data to an object. The code uses error handling to ensure the user inputs the appropriate items.
