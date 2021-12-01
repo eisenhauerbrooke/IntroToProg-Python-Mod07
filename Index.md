@@ -54,7 +54,8 @@ The PyCharm output of the online grocery ordering code described in previous par
  
  
 Figure 4 shows the same program output in the Command Module.
- ![Figure 4] https://github.com/eisenhauerbrooke/IntroToProg-Python-Mod07/blob/main/Figure%204.png "Figure 4: Command Module")
+
+ ![Figure 4](https://github.com/eisenhauerbrooke/IntroToProg-Python-Mod07/blob/main/Figure%204.png "Figure 4: Command Module")
 
 
 ## Summary
